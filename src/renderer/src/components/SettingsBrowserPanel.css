@@ -1,4 +1,8 @@
 .browser-settings {
+  display: flex;
+  width: 100%;
+  min-width: 0;
+  flex-direction: column;
   container: browser-settings / inline-size;
 }
 
